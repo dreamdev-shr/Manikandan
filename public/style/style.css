@@ -1,0 +1,97 @@
+.logo{
+    width:120px;
+    height:120px;
+}
+/* .heading{
+    background-color:bisque;
+    width:200px;
+    height:150px;
+} */
+.bat{
+    width:100px;
+    height: 80px;
+}
+
+.player{
+    width: 100%;
+    height:200px;
+
+}
+
+.players{
+    height: 600px !important;
+}
+
+
+.carousel-control-prev-icon{
+    color: red !important;
+}
+
+.modalbulb{
+    margin:100px;
+}
+
+.modalcenter{
+    margin:50px;
+
+}
+
+.lightbulb{
+    width:50px;
+    height:50px;
+}
+
+.jershead{
+    margin-left:10px;
+}
+
+.buyjersey{
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.footer{
+    font-size: medium;
+}
+.nav-pills{
+    align-items: center;
+}
+#team1{
+ margin-top:50px;
+ margin-left: 250px;
+ height:500px;
+}
+
+#team2{
+    width:800px;
+
+    height:500px;
+}
+
+#team3{
+
+    height: 500px;
+}
+.light{
+    margin-left: 500px;
+}
+
+.header{
+margin-left: 650px;
+}
+
+.carouselphoto{
+    width: 100%;
+    height: 500px;
+}
+
+/* media  queries  */
+
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+
