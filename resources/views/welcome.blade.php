@@ -345,6 +345,7 @@
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-light">Complaince</a></li>
           <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-light">Policy</a></li>
           {{-- <img src="{{asset('image/footerbatsman.avif')}}" style="width:150px;height:150px;"> --}}
+
         </ul>
       </div>
 
