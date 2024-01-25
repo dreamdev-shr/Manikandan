@@ -155,7 +155,7 @@
         </div>
         <div class="carousel-inner ">
           <div class="carousel-item active" >
-            <img src="{{asset('image/GEaMBS2bEAEWBRI.jpg')}}" class="carouselphoto">
+            <img src="{{asset('image/carosel1.webp')}}" class="carouselphoto" id='caro1'>
             <div class="container">
               <div class="carousel-caption text-start">
 
@@ -165,7 +165,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src="{{asset('image/GEaMBS3bsAANFxr.jpg')}}"  class="carouselphoto">
+            <img src="{{asset('image/carosel2.jpg')}}"  class="carouselphoto" id='caro2' >
             <div class="container">
               <div class="carousel-caption">
 
@@ -173,7 +173,7 @@
             </div>
           </div>
           <div class="carousel-item">
-          <img src="{{asset('image/GEaMBS4bAAAnM-Q.jpg')}}" class="carouselphoto" >
+          <img src="{{asset('image/carosel3.jpg')}}" class="carouselphoto" id='caro3' >
             <div class="container">
               <div class="carousel-caption text-end">
 
